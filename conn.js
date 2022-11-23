@@ -1619,7 +1619,7 @@ let text_buysc =`*_Mau beli scriptnya? harga murah kok._*
 *Contact Person 📞*
 
 *Admin1:*
-*Wa.me/6281548907132*
+*Wa.me/62882149893523*
 
 *Admin2:*
 *Wa.me/6282180238576*
@@ -3733,7 +3733,7 @@ fetchJson(`https://saipulanuar.ga/api/download/tiktok2?url=${q}&apikey=dyJhXvqe`
 .then(tt_res => {
 reply(`𝗧𝗜𝗞𝗧𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗
 
-𝘼𝙪𝙩𝙝𝙤𝙧: Angga Official
+𝘼𝙪𝙩𝙝𝙤𝙧: IlhamGanz 
 𝙅𝙪𝙙𝙪𝙡: ${tt_res.result.judul}
 𝙎𝙤𝙪𝙧𝙘𝙚: ${q}
 
